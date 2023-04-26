@@ -1,0 +1,11 @@
+,Tables_in_lewis
+0,courseinfo
+1,courseregistrationinfo
+2,coursescheduleinfo
+3,housinginfo
+4,insurancedetails
+5,student_housing_insurance_info
+6,studentcourseschedule
+7,studentinfo
+8,vehiclevendors
+9,workingdetails
